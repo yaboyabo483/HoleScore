@@ -8,7 +8,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![第三方依赖](https://img.shields.io/badge/第三方依赖-0-brightgreen)
-![许可证](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![许可证](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+## License
+
+本仓库代码采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。
+
+- ✅ 允许学习、修改、分享
+- ❌ 禁止商用（收费产品、商业服务均不可）
+- ✅ 修改后必须以相同协议（CC BY-NC-SA 4.0）发布
+- ✅ 必须注明原作者
+
+商用请联系作者另行授权。
 
 ---
 
