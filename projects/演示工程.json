@@ -1,0 +1,278 @@
+{
+ "version": 1,
+ "title": "编谱器示例-爱尔兰风格",
+ "key": "D",
+ "whistle": "D",
+ "beats": "4/4",
+ "auto_bars": true,
+ "paper": "A4",
+ "watermark": "",
+ "scale": 2,
+ "row_measures": 0,
+ "notes": [
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 3,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 6,
+   "accidental": 0,
+   "octave": -1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 5,
+   "accidental": 0,
+   "octave": -1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 3,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "hold",
+   "duration": 1.0
+  },
+  {
+   "kind": "hold",
+   "duration": 1.0
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 5,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 6,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 7,
+   "accidental": -1,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": [
+    1,
+    1,
+    1,
+    0,
+    2,
+    0
+   ],
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 3,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 2,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "bar",
+   "duration": 1.0
+  },
+  {
+   "kind": "note",
+   "degree": 7,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 6,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 5,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 6,
+   "accidental": 0,
+   "octave": 0,
+   "duration": 0.5,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "note",
+   "degree": 1,
+   "accidental": 0,
+   "octave": 1,
+   "duration": 1.0,
+   "holes": null,
+   "short": false
+  },
+  {
+   "kind": "hold",
+   "duration": 1.0
+  },
+  {
+   "kind": "hold",
+   "duration": 1.0
+  }
+ ],
+ "saved_at": 1789969647.6847138
+}

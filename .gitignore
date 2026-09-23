@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- 编辑器 / 操作系统 ----
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+
+# ---- 打包 exe 的中间产物 / 成品 ----
+# build/ 是 PyInstaller 的工作目录、dist/ 是打包结果，都能用 build_exe.py 重新生成
+# （packaging/icon.ico 是构建输入，要留着；生成的 启动错误.log 是运行时产物，忽略）
+build/
+dist/
+启动错误.log
+
+# ---- 脚本自己吐的临时日志（tests/ 下下划线开头的 .log）----
+tests/_*.log
+
+# ---- 本机生成物 ----
+# 默认输出目录：每次生成都会往里丢 SVG / HTML，不进版本库
+output/
+# 编谱器的自动保存（演示工程 projects/演示工程.json 建议保留）
+projects/autosave.json
+# 自测脚本自己造的临时输出目录
+tests/_tmp_editor_out/
+
+# ---- AI 助手的工作记录目录（不想公开就取消下面这行的注释）----
+# .workbuddy/
