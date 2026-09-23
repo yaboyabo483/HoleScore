@@ -1,4 +1,6 @@
 """试听：合成一个接近哨笛的音色，走声卡放出来（`winsound.PlaySound`）。
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ## 为什么不直接用 `winsound.Beep`
 
