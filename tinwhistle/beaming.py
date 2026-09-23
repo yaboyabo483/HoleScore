@@ -1,4 +1,6 @@
 """减时线（符尾）分组算法 —— 简谱规范
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 规范要点：
   1. 八分音符画一条减时线、十六分画两条，横线在数字下方；
