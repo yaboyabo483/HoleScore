@@ -1,4 +1,6 @@
 """SVG 洞洞谱渲染器（零依赖，直接生成 SVG 字符串）
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 谱面样式仿常见哨笛洞洞谱：
   - 竖直笛身，6 个圆孔从上到下对应持笛时从上到下的孔 1-6；
