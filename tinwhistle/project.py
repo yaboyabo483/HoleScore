@@ -1,4 +1,6 @@
 """编谱工程文档模型
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 一个「工程」= 曲名 + 曲调 + 哨笛调性 + 音符序列。
 音符（NoteDoc）以纯 dict 表示，便于 JSON 序列化与撤销快照。
