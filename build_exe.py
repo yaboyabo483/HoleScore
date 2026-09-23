@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """把「笛洞工坊」（HoleScore）打包成 exe（Windows）。
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 名字只在下面 `APP_NAME` 一处定义；`editor.APP_NAME` 是同一个名字，改要一起改。
 
