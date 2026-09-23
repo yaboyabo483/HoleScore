@@ -91,7 +91,7 @@ def _fail(msg: str) -> None:
 def check_python() -> None:
     """打包必须用**带 tkinter** 的 Python。
 
-    本机的托管运行时（C:\\Users\\yabol\\.workbuddy\\binaries\\python\\...）没编 tkinter，
+    有些精简版 / 托管的 Python 运行时没编 tkinter（嵌入版、conda 最小环境等），
     用它打出来的 exe 会在启动时报 `No module named '_tkinter'` —— 而且**打包阶段不报错**，
     所以这里先拦一道。
     """
