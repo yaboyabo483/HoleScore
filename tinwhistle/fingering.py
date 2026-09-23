@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
 """爱尔兰哨笛指法引擎
 
 孔位顺序：从上到下 1-6（吹奏时持笛的自然顺序，最上为孔1）。
