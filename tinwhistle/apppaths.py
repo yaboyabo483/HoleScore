@@ -1,4 +1,6 @@
 """运行目录解析：源码运行 vs 打包成 exe 后运行。
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 **为什么需要单独一个模块**：PyInstaller 打包后 `__file__` 指向的是**解包目录**，
 不是程序目录——
