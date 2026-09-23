@@ -1,4 +1,6 @@
 """哨笛洞洞谱编辑器（编谱器）
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 零第三方依赖（纯标准库 + tkinter）。
 模块划分：
