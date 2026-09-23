@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """笛洞工坊 exe 的入口脚本（PyInstaller 用它当起点，而不是直接拿 editor.py）。
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 职责有三块：
 
