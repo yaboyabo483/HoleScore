@@ -6,9 +6,6 @@
 
 用笛洞工坊边听边敲：物理键盘打简谱、鼠标点洞洞调指法、实时预览，一键导出 SVG / PNG。
 
-> 早期版本还带「简谱图片 OCR 生谱」与命令行入口，现已移除——本项目只保留笛洞工坊这个编谱器。
-> 需要旧功能的话见 `miusicv-OCR生谱备份-*.zip`。
-
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![第三方依赖](https://img.shields.io/badge/第三方依赖-0-brightgreen)
 ![许可证](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
