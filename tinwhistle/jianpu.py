@@ -1,4 +1,6 @@
 """简谱文本解析器
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 输入约定（校对框里的人工可读格式，OCR 结果也归一化到该格式）：
     音高      0-7            0=休止, 1-7=do..si
