@@ -1,4 +1,6 @@
 """SVG 谱面 → PNG 图片（按页分文件、可选倍率）
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 为什么走浏览器：谱面里的汉字、简谱数字、弧线都要**真实字形**，纯 Python 画不出来。
 用系统自带的 Edge/Chrome 无头模式截图，既不用装第三方库，又是**矢量按目标像素重画**——
