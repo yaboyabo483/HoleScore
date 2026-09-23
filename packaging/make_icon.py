@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """生成 exe 图标：SVG → 无头 Edge 截图 → ICO。
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
     G:\\Conda\\python.exe packaging/make_icon.py
 
