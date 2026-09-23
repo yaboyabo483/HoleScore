@@ -1,4 +1,6 @@
 """跑外部命令的薄封装 —— 两件事：**别按本机代码页严格解码**、**别闪黑框**
+# SPDX-FileCopyrightText: 2026 yaboyabo483
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 坑（这个仓库里已经在 4 处各踩过一次，所以抽到这里来）：
 
