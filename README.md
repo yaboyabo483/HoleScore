@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![第三方依赖](https://img.shields.io/badge/第三方依赖-0-brightgreen)
+![许可证](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ---
 
@@ -620,7 +621,23 @@ SVG 里声明的字体族是 `Segoe UI, Microsoft YaHei, sans-serif`。用浏览
 
 ## 许可证
 
-本仓库目前尚未附带许可证文件。如果要让其他人可以自由使用、修改、再分发，建议补一个（MIT 或 Apache-2.0 都是常见选择）；如果不加许可证，默认保留全部权利。
+**CC BY-NC 4.0**（Creative Commons 署名 — 非商业性使用 4.0 国际），全文见 [`LICENSE`](LICENSE)。
+
+说人话就是三条硬要求：
+
+| 许可范围 | 条件 |
+| --- | --- |
+| 可以用、可以改、可以分享 | **必须注明来源**：署名原作者与项目名（笛洞工坊 / HoleScore），并给出许可证链接 |
+| | **不能商用**：任何以营利为目的的使用、或集成进收费产品 / 商业服务，都不在许可范围内 |
+| | **版权保留**：许可只是授权使用，版权仍在原作者手里，不因使用或转载而转移 |
+
+- 归因做法：保留 README 里的项目名与本许可证链接就行；再分发（fork、二次发布、打包分发）时请顺带标明你改了什么。
+- 需要**商业使用**的话，CC BY-NC 4.0 没有收费授权通道，请直接联系作者单独谈。
+
+> 一句实话：Creative Commons 官方**并不推荐**把 CC 系列用在软件上（它不管专利，也不约定源码交付形式）。
+> 这里选它是因为它正好精确对应「署名 + 非商用 + 保留版权」这三条。想要更贴合软件的替代方案：
+> [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（多一条「改完也要同样开放」），
+> 或改用专门的软件许可证。
 
 ---
 
